@@ -1,0 +1,13 @@
+E:\Projects\ChineseGame\ChineseGame\bin\Debug\netcoreapp3.1\ChineseGame.exe
+E:\Projects\ChineseGame\ChineseGame\bin\Debug\netcoreapp3.1\ChineseGame.deps.json
+E:\Projects\ChineseGame\ChineseGame\bin\Debug\netcoreapp3.1\ChineseGame.runtimeconfig.json
+E:\Projects\ChineseGame\ChineseGame\bin\Debug\netcoreapp3.1\ChineseGame.runtimeconfig.dev.json
+E:\Projects\ChineseGame\ChineseGame\bin\Debug\netcoreapp3.1\ChineseGame.dll
+E:\Projects\ChineseGame\ChineseGame\bin\Debug\netcoreapp3.1\ChineseGame.pdb
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.csprojAssemblyReference.cache
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.AssemblyInfoInputs.cache
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.AssemblyInfo.cs
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.csproj.CoreCompileInputs.cache
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.dll
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.pdb
+E:\Projects\ChineseGame\ChineseGame\obj\Debug\netcoreapp3.1\ChineseGame.genruntimeconfig.cache
